@@ -1,1 +1,2 @@
-# c22_shehza
+# collisionAlgorithm
+Algorithm to detect collision between two objects
